@@ -1,4 +1,2 @@
 # Snake
-Snake game played on console
-
-DEVELOPMENT ON THIS IS PAUSED BC I AM CONFUZZLED AND STUCK AND WANT TO DO SOMETHING ELSE FOR NOW
+Snake game made with Java 
